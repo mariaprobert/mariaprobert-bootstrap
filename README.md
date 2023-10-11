@@ -4,6 +4,8 @@ This template goes along with the [Bootstrap lessons](https://utdata.github.io/i
 
 It uses Bootstrap 5 and a Gulp setup to support a development environment with Sass and image management.
 
+Bootstrap 5 Project by Maria Probert Hermosillo started Oct. 9  
+
 ## How to set up your project
 
 - Create a new folder in your `icj/` folder called `yourname-bootstrap`.
@@ -33,3 +35,4 @@ All edits to HTML, SCSS or images should be done in the `src` folder. DO NOT edi
 ,
     "nav": "^0.0.2"
 ```
+
